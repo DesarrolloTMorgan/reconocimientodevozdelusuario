@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ReconocimientoDeVozDelUsuario</string>
+    <string name="titulo">Reconocimiento de Voz</string>
 </resources>
